@@ -4,7 +4,6 @@
   "main": "index.js",
   "homepage": "https://hristo2612.github.io/github-pages-with-react/",
   "repository": "https://github.com/hristo2612/github-pages-with-react.git",
-  "author": "hristo2612 <hristoapps@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --env.env=dev --hot",

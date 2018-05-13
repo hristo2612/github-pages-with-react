@@ -1,7 +1,7 @@
 # Github Pages With React
 
 
-## Base foundation used for creating Github Pages with React.
+### Base foundation used for creating Github Pages with React.
 
 
 ### To make this project your starting point for your new app:
